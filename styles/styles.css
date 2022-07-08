@@ -57,7 +57,7 @@ a {
     flex-direction: column;
     height: 0px;
     overflow: hidden;
-    transition: all 400ms ease;
+    transition: all 400ms ease-in;
 }
 
 #navbar-header:target .navbar-container {
